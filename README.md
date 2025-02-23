@@ -1,4 +1,3 @@
 ## Hi there 👋
 
-I'm currently learnig the working of git and github.
-here i , some push the code file .
+I am currently learning MERN stack development , and later I will learn system design , DSA , C++ , DevOps and go on
