@@ -28,7 +28,7 @@ A comprehensive blog platform that lets users create, read, update, and delete p
 
 ## 📫 Let's Connect
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/aditya-kumar-99a029355/)
-- **Email:** [My Email is](adityakumar@gmail.com)
+- **Email:** [My Email is](aditya7281kumar@gmail.com)
 
 ## 📊 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya696738&show_icons=true&theme=dark)](https://github.com/Aditya696738)
