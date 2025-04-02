@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya! 👋
+ I'm Aditya! 
 
 I'm a passionate full-stack developer with a knack for building dynamic web applications. Whether it’s creating interactive UIs with React or optimizing applications with advanced performance techniques, I thrive on solving real-world problems with efficient code.
 
