@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya696738" alt="aditya696738" /></a> </p>
 
-- 🔭 I’m currently working on [paste-app](https://react-pasteapp.vercel.app)
+- 🔭 <h1>I’m currently working on [paste-app](https://react-pasteapp.vercel.app)</h1>
 
 -<h1> 🌱 I’m currently learning</h1>
   
