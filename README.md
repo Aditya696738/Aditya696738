@@ -1,8 +1,7 @@
 # Aditya Kumar 👋  
 **Self-Taught Full Stack Developer (MERN) | React • Redux • JavaScript • C++ (DSA)**
 
-I am a self-taught developer focused on **building real, functional projects** and strengthening **problem-solving fundamentals**, not collecting tutorial certificates.
-
+I am a self-taught developer focused on **building real, functional projects** and strengthening **problem-solving fundamentals**, 
 Every skill listed here is **backed by public repositories** and hands-on implementation.
 
 ---
